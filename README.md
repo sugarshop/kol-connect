@@ -1,2 +1,2 @@
 # kol-connect
-AI Driven kol connect tools.
+AI driven kol connect tools.
